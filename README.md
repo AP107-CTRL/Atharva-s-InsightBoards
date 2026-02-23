@@ -49,3 +49,8 @@ Power BI • Excel • Power Query
 
 Atharva Pathak
 Power BI Developer | Business Analyst
+
+EXECUTIVE OVERVIEW : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%201.png)
+DEPARTMENT INTELLIGENCE : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%202.png)
+RESEARCH AND KNOWLEDGE DOMAIN : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%203.png)
+FACULTY DEEP PROFILES : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20LAST%20PAGE.png)
