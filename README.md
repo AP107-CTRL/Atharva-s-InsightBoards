@@ -1,27 +1,51 @@
-Project Name:
-
-PHD FACULTY ANALYSIS DASHBOARD - ATH
+📊 PHD Faculty Analysis Dashboard – ATH
 
 ---
 
-🚀 Overview:
-This project analyzes 'PHD FACULTY PROFILES AND EXPERTISE DETAILS' to uncover key business insights using Power BI.
+🚀 Overview
+
+This project analyzes **PhD Faculty Profiles and Expertise Details** to deliver actionable insights on faculty qualifications, locations, and academic specialization using Power BI.
 
 ---
 
-🛠 Tools Used:
+🛠 Tools Used
 
 Power BI • Excel • Power Query
 
 ---
 
-📈 Key KPIs:
+📈 Key KPIs
+
 * Total Faculties
-* Faculty PHD status
-* PHD registration status
+* PhD Completed Status
+* PhD Registration Status
+* Campus-wise Faculty Distribution
+
+---
+
+📊 Key Features
+
+* 📍 Locational Analysis
+* 🏫 Campus & Work Location Analysis
+* 👩‍🏫 Faculty Profile & Specialization Analysis
+* 🎓 PhD Status Tracking (Completed / Registered)
+* 📊 Clear KPI Cards with Direct Number Display
+* 🎯 Visualization-focused dashboard design
+* 🔎 Direct Faculty Profile Details View
+
+---
+
+💼 Business Solutions Provided
+
+* Simple and user-friendly dashboard experience
+* Immediate visibility of important numbers
+* Data-driven understanding of faculty expertise distribution
+* Clear insights into campus-wise academic strength
+* Helps educational organizations evaluate faculty value and strategic positioning
 
 ---
 
 👤 Author
+
 Atharva Pathak
 Power BI Developer | Business Analyst
