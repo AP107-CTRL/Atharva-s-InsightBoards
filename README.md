@@ -1,63 +1,56 @@
-📊 Atharva's InsightBoards
-Power BI | Business Intelligence | Data Analytics Portfolio
+📊 PHD Faculty Analysis Dashboard – ATH
 
-Welcome to my Power BI Project Portfolio.
-This repository contains dashboards focused on business analytics, financial monitoring, academic insights, and operational intelligence.
-Each project includes dashboard screenshots, analytics explanation, and interactive insights.
-________________________________________
-🎓 PhD Student Enrollment Analysis Dashboard
- Project Sample Image
- ![alt text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/PHD-STUDENT-ANALYSIS-DASHBOARD/PHD%20STUDENT%20BI%20-%201%20EXECUTIVE%20CAMMAND%20DASHBOARD.png)
-🔗 View Full Project
-PHD-STUDENT-ANALYSIS-DASHBOARD
-![PHD-STUDENT-ANALYSIS-DASHBOARD}(https://github.com/AP107-CTRL/Atharva-s-InsightBoards/tree/PHD-STUDENT-ANALYSIS-DASHBOARD)
-________________________________________
-💰 Cash Flow BI Dashboard
- 
-🔗 View Full Project
-ADD_BRANCH_LINK
-________________________________________
-📅 Exam Dates BI Dashboard
- 
-🔗 View Full Project
-ADD_BRANCH_LINK
-________________________________________
-⚡ Electricity Consumption Analysis Dashboard
- 
-🔗 View Full Project
-ADD_BRANCH_LINK
-________________________________________
-📊 Fee Risk Analysis Dashboard
- 
-🔗 View Full Project
-ADD_BRANCH_LINK
-________________________________________
-🧠 Skills Demonstrated
-•	Power BI Dashboard Development
-•	Data Visualization & Storytelling
-•	Data Modeling
-•	DAX Calculations
-•	Financial & Academic Analytics
-•	Risk Analysis & KPI Monitoring
-________________________________________
-🛠 Tools & Technologies
-Power BI
-ETL (GOOGLE SHEETS)
-DAX
-Power Query
-SQL
-Excel
-Azure Maps
-________________________________________
-👨‍💻 Author
+---
+
+🚀 Overview
+
+This project analyzes **PhD Faculty Profiles and Expertise Details** to deliver actionable insights on faculty qualifications, locations, and academic specialization using Power BI.
+
+---
+
+🛠 Tools Used
+
+Power BI • Excel • Power Query
+
+---
+
+📈 Key KPIs
+
+* Total Faculties
+* PhD Completed Status
+* PhD Registration Status
+* Campus-wise Faculty Distribution
+
+---
+
+📊 Key Features
+
+* 📍 Locational Analysis
+* 🏫 Campus & Work Location Analysis
+* 👩‍🏫 Faculty Profile & Specialization Analysis
+* 🎓 PhD Status Tracking (Completed / Registered)
+* 📊 Clear KPI Cards with Direct Number Display
+* 🎯 Visualization-focused dashboard design
+* 🔎 Direct Faculty Profile Details View
+
+---
+
+💼 Business Solutions Provided
+
+* Simple and user-friendly dashboard experience
+* Immediate visibility of important numbers
+* Data-driven understanding of faculty expertise distribution
+* Clear insights into campus-wise academic strength
+* Helps educational organizations evaluate faculty value and strategic positioning
+
+---
+
+👤 Author
+
 Atharva Pathak
-Power BI Developer | Business Intelligence Analyst
-________________________________________
-⭐ Portfolio Objective
-This repository demonstrates my ability to design interactive dashboards that convert complex datasets into actionable insights for decision-making.
-________________________________________
-🚀 Recruiter Tip
-Click View Full Project under each dashboard to explore:
-•	Full dashboard screenshots
-•	Project explanation
-•	Analytics insights
+Power BI Developer | Business Analyst
+
+EXECUTIVE OVERVIEW : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%201.png)
+DEPARTMENT INTELLIGENCE : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%202.png)
+RESEARCH AND KNOWLEDGE DOMAIN : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%203.png)
+FACULTY DEEP PROFILES : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20LAST%20PAGE.png)
