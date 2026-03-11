@@ -1,13 +1,16 @@
 📊 Atharva's InsightBoards
 Power BI | Business Intelligence | Data Analytics Portfolio
+
 Welcome to my Power BI Project Portfolio.
 This repository contains dashboards focused on business analytics, financial monitoring, academic insights, and operational intelligence.
 Each project includes dashboard screenshots, analytics explanation, and interactive insights.
 ________________________________________
 🎓 PhD Student Enrollment Analysis Dashboard
- 
+ Project Sample Image
+ ![alt text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/PHD-STUDENT-ANALYSIS-DASHBOARD/PHD%20STUDENT%20BI%20-%201%20EXECUTIVE%20CAMMAND%20DASHBOARD.png)
 🔗 View Full Project
-https://github.com/AP107-CTRL/Atharva-s-InsightBoards/tree/PHD-STUDENT-ANALYSIS-DASHBOARD
+PHD-STUDENT-ANALYSIS-DASHBOARD
+![PHD-STUDENT-ANALYSIS-DASHBOARD}(https://github.com/AP107-CTRL/Atharva-s-InsightBoards/tree/PHD-STUDENT-ANALYSIS-DASHBOARD)
 ________________________________________
 💰 Cash Flow BI Dashboard
  
