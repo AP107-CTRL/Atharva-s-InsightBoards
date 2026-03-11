@@ -1,56 +1,95 @@
-📊 PHD Faculty Analysis Dashboard – ATH
+🎓 Exam Dates BI Dashboard – 2026
 
----
+🚀 Project Overview
 
-🚀 Overview
+The Exam Dates BI Dashboard – 2026 is an interactive Power BI solution designed to analyze and visualize examination schedules across institutes, programs, branches, and course types for the academic year 2026.
 
-This project analyzes **PhD Faculty Profiles and Expertise Details** to deliver actionable insights on faculty qualifications, locations, and academic specialization using Power BI.
+This dashboard enables academic administrators, examination departments, and decision-makers to monitor exam timelines, track academic distribution, and optimize scheduling through dynamic and user-friendly visualizations.
 
----
+📂 Dataset Information
 
-🛠 Tools Used
+📌 Columns Used
 
-Power BI • Excel • Power Query
+Sr. No.
+Location
+Name of Institute
+Branch (Discipline)
+Program Name (Course)
+Sub-Program (Course Branch)
+Course Type (UG / PG / Diploma)
+Semester
+Exam Start Date
+Exam End Date
+Exam Year (2026)
+🎛️ Interactive Filters
 
----
+The dashboard includes dynamic slicers for:
 
-📈 Key KPIs
+📅 Exam Start Date
+📆 Start Month
+🎓 Program Name
+🏷️ Sub-Program
+🏫 Branch / Discipline
+📚 Course Type (UG / PG / Diploma)
+These filters allow users to drill down into specific academic segments and instantly analyze exam schedules.
 
-* Total Faculties
-* PhD Completed Status
-* PhD Registration Status
-* Campus-wise Faculty Distribution
+📊 Dashboard Pages
 
----
+1️⃣ Exam Dates Analysis
 
-📊 Key Features
+Exam timeline visualization
+Semester-wise exam scheduling
+Monthly distribution of exam start dates
+Exam duration calculation (Start vs End Date)
+Identification of overlapping exams
+2️⃣ Course-wise Analysis
 
-* 📍 Locational Analysis
-* 🏫 Campus & Work Location Analysis
-* 👩‍🏫 Faculty Profile & Specialization Analysis
-* 🎓 PhD Status Tracking (Completed / Registered)
-* 📊 Clear KPI Cards with Direct Number Display
-* 🎯 Visualization-focused dashboard design
-* 🔎 Direct Faculty Profile Details View
+Program distribution insights
+Sub-program breakdown
+Course type comparison (UG vs PG vs Diploma)
+Branch-wise academic structure
+Semester distribution trends
+3️⃣ Location & Campus Analysis
 
----
+Location-wise exam scheduling
+Institute-level exam distribution
+Branch presence across campuses
+Geographic academic activity overview
+🛠 Tools & Technologies Used
 
-💼 Business Solutions Provided
+Power BI (Data Visualization & Modeling)
+Power Query (Data Transformation)
+Excel (Data Source)
+📈 Key Insights Delivered
 
-* Simple and user-friendly dashboard experience
-* Immediate visibility of important numbers
-* Data-driven understanding of faculty expertise distribution
-* Clear insights into campus-wise academic strength
-* Helps educational organizations evaluate faculty value and strategic positioning
+Centralized visibility of examination schedules
+Clear semester & month-level distribution
+Conflict detection in exam timelines
+Strategic academic planning support
+Course and campus-level performance tracking
+💼 Business Value
 
----
+This dashboard helps educational institutions:
+
+✔ Avoid exam scheduling conflicts
+✔ Improve coordination across campuses
+✔ Enable data-driven academic planning
+✔ Monitor program-level examination coverage
+✔ Enhance operational transparency
+
+📸 Dashboard Preview
+
+🔹 TAB 1: Dates Analysis
+![ALT TEXT](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/EXAM-DATES-BI/EXAM%20DATES%20BI%20-%20DATEWISE%20ANLYSIS.png)
+
+🔹 TAB 2: Course-wise Dates Analysis
+![ALT TEXT](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/EXAM-DATES-BI/EXAM%20DATES%20BI%20-%20COURSE%20WISE%20ANALYSIS.png)
+
+🔹 TAB 3: Location & Campus-wise Dates Analysis
+![ALT TEXT](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/EXAM-DATES-BI/EXAM%20DATES%20BI%20-%20LOCATION%20AND%20CAMPUS.png)
 
 👤 Author
 
 Atharva Pathak
 Power BI Developer | Business Analyst
-
-EXECUTIVE OVERVIEW : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%201.png)
-DEPARTMENT INTELLIGENCE : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%202.png)
-RESEARCH AND KNOWLEDGE DOMAIN : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20PAGE%203.png)
-FACULTY DEEP PROFILES : ![Alt Text](https://github.com/AP107-CTRL/Atharva-s-InsightBoards/blob/main/FACULTY%20LAST%20PAGE.png)
+MBA – International Business
